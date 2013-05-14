@@ -5,7 +5,7 @@ Hosting Websites via DropBox.
 
 ##Services
 
-*[Dropbox](http://www.dropbox.com)
+[Dropbox](http://www.dropbox.com)
 
 
 ##DropBox
