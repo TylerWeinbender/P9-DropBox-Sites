@@ -13,6 +13,7 @@ Hosting Websites via DropBox.
 ###How-To
   1. Upload site to **PUBLIC** folder.
   2. Right click **Copy Public** link.
+
 ###Pros
 
 ###Cons
