@@ -5,9 +5,9 @@ Hosting Websites via DropBox.
 
 ##Services
 
-* [Dropbox](http://www.dropbox.com)
-* [Site-44](http://www.site44.com)
-* [Drop Pages](http://www.droppages.com)
+[Dropbox](http://www.dropbox.com) along with [Site-44](http://www.site44.com), [Drop Pages](http://www.droppages.com), [KISSr](http://www.kissr.com), (with the exception of [Synkee](http://www.synkee.com)) can be used as web hosting tools for those of us who are unable to afford and or hesitate to use/buy web hosting services (me included).
+
+This is a short, compiled list of each service which includes how to install along with their pros and cons respectively.
 
 ##DropBox
 
@@ -68,7 +68,7 @@ Hosting Websites via DropBox.
 
 ###Side Notes
   - When uploading revised files to your site44, your new content will **ONLY be displayed once refreshed.**
-  - Just to re-iterate -- **Site-44 DOES NOT support PHP or dynamic content. Static content only.**
+  - Just to re-iterate -- **Site-44 DOES NOT support PHP or dynamic content. Static content only.** This does NOT affect responsive web design.
 
 ##Drop Pages
 
@@ -108,3 +108,56 @@ Hosting Websites via DropBox.
   - Not as secure due to Dropbox not being entirely secure.
   - No password protection.
   - If Dropbox goes down, so does your site.
+
+##KISSr
+
+###How-to Install
+
+  1. Go to [KISSr's](http://www.kissr.com) homepage.
+  2. Fill in your domain name you want.
+  2. Click on **Try it!**.
+  3. Similar to previous installations, KISSr will ask permission to allow the app to be connected to your Dropbox.
+  4. Click **Allow**.
+  8. You can now follow that url you named in Step 2 and be presented with a default KISSr page. **It works!**
+
+###How to Upload Website
+
+  1. Login to your Dropbox account if you're not logged in already.
+  2. Navigate to your **Apps** folder and then open it *by double clicking*.
+  3. There should be a folder icon with a jigsaw puzzle named **KISSr**, if not then re-install the app by following the **How-To Install** instructions above.
+  4. Double click to enter the folder.
+  5. You'll now find a folder with the name of your site. *Note: It is also your url.*
+  6. **Delete ALL the folders before you upload anything to avoid confusion.**
+  7. Upload your website files within your named folder.
+  8. If you notice above, the file directory should be something similar to KISSr > yoursite.site44.com. 
+  9. Copy that url to view your website.
+
+
+###Pros
+  - Similar installation as previous services.
+  - Uses Amazon Cloud to maintain server stability.
+  - Uses Dropbox UI to provide easy navigation.
+  - Can manage the site from KISSr's homepage.
+  - Provide a premium service.
+  - Free.
+
+###Cons
+  - The premium service can be spendy **$99.99 per year.**
+  - If Dropbox goes down, than so does the site. 
+  - 
+
+Colons can be used to align columns.
+
+|                         | Dropbox       | Site-44       | Drop Pages  |KISSr|Synkee| 
+|-------------------------| -------------:|-------------:| -----:       |-----:|----:| 
+|  Security Options       | col 2 is      | centered      |   $12       |      |     | 
+|  Sharing Via Dropbox    | zebra stripes | are neat      |    $1       |      |     |
+| Backup Via Dropbox      |               |               |             |      |     |
+|  Storage Space          |               |               |             |      |     |
+| Price per Year          |               |               |             |      |     |
+| PHP Enabled             |               |               |             |      |     |
+
+
+✓  ✗
+
+<th class="x">✗</th>
