@@ -188,12 +188,12 @@ From Synkee's Website:
 
 This is the only service I could not experiement nor even remotely try due to the price entry. There is no free option for Synkee, so naturally I am not going to spend money on it. But I could see why someone would. It is a very advanced service compared to the others.
 
-##Pros
+### Pros
 - COMPATIBLE WITH PHP
 - $69.99 entry point for 5GB - Second most offered storage capacity for that price.
 - Security options above the rest.
 
-##Cons
+### Cons
 - Heavy price entry. 
 - If you have no need for php, than you wouldn't need this service considering there are ones that do just as well for FREE. 
 
