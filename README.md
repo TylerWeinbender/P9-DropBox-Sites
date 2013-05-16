@@ -197,7 +197,9 @@ This is the only service I could not experiement nor even remotely try due to th
 - Heavy price entry. 
 - If you have no need for php, than you wouldn't need this service considering there are ones that do just as well for FREE. 
 
+
 ----------
+
 
 |                         | Dropbox       | Site-44       | Drop Pages  |KISSr|Synkee| 
 |-------------------------| -------------:|-------------: | -----:      |-----:|----:| 
