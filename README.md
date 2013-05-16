@@ -26,7 +26,7 @@ Hosting Websites via DropBox.
 
 ###Cons
   - It is free. 
-  - Not as secure as a web hosting server (which can provide their own security).\
+  - Not as secure as a web hosting server (which can provide their own security).
   - Very limited storage.
   - If Dropbox goes down, so does your site.
 
