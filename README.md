@@ -9,7 +9,21 @@ Hosting Websites via DropBox.
 
 This is a short, compiled list of each service which includes how to install along with their pros and cons respectively.
 
-##DropBox
+
+## Table of Contents
+
+- [DropBox](#dropbox)
+- [Site-44](#site-44)
+- [Drop Pages](#droppages)
+- [KISSr](#kissr)
+- [Synkee](#synkee)
+
+
+<a name="dropbox"/>
+## DropBox
+
+A synopsis of Dropbox's capabilites found at [Mac Life.](http://www.maclife.com/article/howtos/how_host_your_website_dropbox)
+> Dropbox has become one of the ultimate tools to store and sync your files across multiple computers, and it's got a ton of hidden features, like the ability to host your website from a Dropbox account. While you're limited to plain HTML, CSS and JavaScript, you can't run PHP. So if you use iWeb or hard code your website, you absolutely can use Dropbox to host it.
 
 ### How-To
   1. Upload site to **PUBLIC** folder.
@@ -32,7 +46,11 @@ This is a short, compiled list of each service which includes how to install alo
 
 ----------
 
+<a name="site-44"/>
 ##Site-44
+
+From Site-44's website:
+> Site44 provides the easiest and fastest way to publish files to the web by connecting the contents of a special folder in your Dropbox account to our optimized hosting platform. Changes to files within this Dropbox folder appear on your website within seconds—there are no additional steps to publish your files.
 
 ### How-To Install
   1. Go to [Site-44's](http://www.site44.com) homepage.
@@ -72,7 +90,11 @@ This is a short, compiled list of each service which includes how to install alo
 
 ----------
 
+<a name="droppages"/>
 ##Drop Pages
+
+Drop Pages Dev:
+> I launched DropPages in March 2011 as a side project. I wanted an easy way to create and manage websites quickly and effortlessly. I designed DropPages so that content and presentation are loosly coupled, pages render fast, and templates are easy to manage.
 
 ### How-To Install
 
@@ -114,7 +136,11 @@ This is a short, compiled list of each service which includes how to install alo
 
 -----------
 
+<a name="kissr"/>
 ## KISSr
+
+From Kissr's website:
+> KISSr will syncronize a copy of your website to our web servers. Since our web servers are built on top of the Amazon Cloud Platform your site will load quickly even under high traffic. No servers to manage. No nonsense.
 
 ### How-to Install
 
@@ -153,6 +179,7 @@ This is a short, compiled list of each service which includes how to install alo
 
 ----------
 
+<a name="synkee"/>
 ##Synkee
 
 From Synkee's Website:
