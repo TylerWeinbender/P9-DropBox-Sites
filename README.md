@@ -11,30 +11,30 @@ This is a short, compiled list of each service which includes how to install alo
 
 ##DropBox
 
-###How-To
+### How-To
   1. Upload site to **PUBLIC** folder.
   2. Right click **Copy Public** link.
   3. Click on **Copy to Clipboard**.
   4. Paste URL into address bar. 
   5. Enjoy your site!
 
-###Pros
+### Pros
   - Dropbox is free for anyone. 
   - Ease of use, i.e. Drag and drop files for site to work.
   - Dropbox UI is easily navigatable. 
   - No third party software.
 
-###Cons
+### Cons
   - It is free. 
   - Not as secure as a web hosting server (which can provide their own security).
   - Very limited storage.
   - If Dropbox goes down, so does your site.
 
+----------
+
 ##Site-44
 
-
-
-###How-To Install
+### How-To Install
   1. Go to [Site-44's](http://www.site44.com) homepage.
   2. Click on **Sign in with Dropbox to get started**.
   3. Site-44 will ask permission to allow the app to be connected to your Dropbox.
@@ -42,7 +42,7 @@ This is a short, compiled list of each service which includes how to install alo
   5. You'll now be prompted to name your site. Name it something you can remember or will use in the future.
   6. You've successfully installed Site-44, now navigate to the newly made **Apps** folder to get started.
 
-###How to Upload A Website
+### How to Upload A Website
   1. Login to your Dropbox account if you're not logged in already.
   2. Navigate to your **Apps** folder and then open it *by double clicking*.
   3. There should be a folder icon with a jigsaw puzzle named **site44**, if not then re-install the app by following the **How-To Install** instructions above.
@@ -52,7 +52,7 @@ This is a short, compiled list of each service which includes how to install alo
   7. If you notice above, the file directory should be something similar to site44 > yoursite.site44.com. 
   8. Copy that url to view your website.
 
-###Pros
+### Pros
   - It is a free service, just like Dropbox.
   - Can establish password protection for domains.
   - Does include options for monthly payments.
@@ -60,19 +60,21 @@ This is a short, compiled list of each service which includes how to install alo
   - Ease of use and upload. 
   - Uses Dropbox as the UI, so navigation isn't an issue.
 
-###Cons
+### Cons
   - Not as secure due to Dropbox not being entirely secure.
   - Limited storage.
   - Is not compatible with PHP. **Static Content Only.**
   - If Dropbox goes down, so does your site.
 
-###Side Notes
+### Side Notes
   - When uploading revised files to your site44, your new content will **ONLY be displayed once refreshed.**
   - Just to re-iterate -- **Site-44 DOES NOT support PHP or dynamic content. Static content only.** This does NOT affect responsive web design.
 
+----------
+
 ##Drop Pages
 
-###How-To Install
+### How-To Install
 
   1. Go to [Drop Pages](http://www.droppages.com) homepage.
   2. Click on **Getting Started**.
@@ -83,7 +85,7 @@ This is a short, compiled list of each service which includes how to install alo
   7. Now you'll see your domain name. Click **Publish now** on the right side.
   8. You can now follow that url and be presented with a default "Hello World" page. **It works!**
   
-###How to Upload a Website
+### How to Upload a Website
 
   1. Login to your Dropbox account if you're not logged in already.
   2. Navigate to your **Apps** folder and then open it *by double clicking*.
@@ -95,7 +97,7 @@ This is a short, compiled list of each service which includes how to install alo
   8. If you notice above, the file directory should be something similar to My.DropPages > yoursite.site44.com. 
   9. Copy that url to view your website.
 
-###Pros 
+### Pros 
   - Free to use. 
   - 50 MB Starting storage space.
   - Comes to $7.61 / month for 1GB of storage. **First month is free.**
@@ -103,15 +105,18 @@ This is a short, compiled list of each service which includes how to install alo
   - Again, using Dropbox UI for navigation makes things easy to find.
   - Users can use themes to style their sites. 
 
-###Cons
+### Cons
   - The biggest storage they offer is 1GB.
   - Not as secure due to Dropbox not being entirely secure.
   - No password protection.
   - If Dropbox goes down, so does your site.
+  - Does not allow for PHP.
 
-##KISSr
+-----------
 
-###How-to Install
+## KISSr
+
+### How-to Install
 
   1. Go to [KISSr's](http://www.kissr.com) homepage.
   2. Fill in your domain name you want.
@@ -120,7 +125,7 @@ This is a short, compiled list of each service which includes how to install alo
   4. Click **Allow**.
   8. You can now follow that url you named in Step 2 and be presented with a default KISSr page. **It works!**
 
-###How to Upload Website
+### How to Upload Website
 
   1. Login to your Dropbox account if you're not logged in already.
   2. Navigate to your **Apps** folder and then open it *by double clicking*.
@@ -133,7 +138,7 @@ This is a short, compiled list of each service which includes how to install alo
   9. Copy that url to view your website.
 
 
-###Pros
+### Pros
   - Similar installation as previous services.
   - Uses Amazon Cloud to maintain server stability.
   - Uses Dropbox UI to provide easy navigation.
@@ -141,23 +146,37 @@ This is a short, compiled list of each service which includes how to install alo
   - Provide a premium service.
   - Free.
 
-###Cons
+### Cons
   - The premium service can be spendy **$99.99 per year.**
   - If Dropbox goes down, than so does the site. 
-  - 
+  - Does not allow for PHP.
 
-Colons can be used to align columns.
+----------
+
+##Synkee
+
+From Synkee's Website:
+
+> Synkee is a simple web hosting solution which uses Dropbox to automatically transfer files from user's computer to a remote server without using standard tools such as FTP. We are first and only "PHP on Dropbox" hosting service.
+
+This is the only service I could not experiement nor even remotely try due to the price entry. There is no free option for Synkee, so naturally I am not going to spend money on it. But I could see why someone would. It is a very advanced service compared to the others.
+
+##Pros
+- COMPATIBLE WITH PHP
+- $69.99 entry point for 5GB - Second most offered storage capacity for that price.
+- Security options above the rest.
+
+##Cons
+- Heavy price entry. 
+- If you have no need for php, than you wouldn't need this service considering there are ones that do just as well for FREE. 
+
+----------
 
 |                         | Dropbox       | Site-44       | Drop Pages  |KISSr|Synkee| 
-|-------------------------| -------------:|-------------:| -----:       |-----:|----:| 
-|  Security Options       | col 2 is      | centered      |   $12       |      |     | 
-|  Sharing Via Dropbox    | zebra stripes | are neat      |    $1       |      |     |
-| Backup Via Dropbox      |               |               |             |      |     |
-|  Storage Space          |               |               |             |      |     |
-| Price per Year          |               |               |             |      |     |
-| PHP Enabled             |               |               |             |      |     |
-
-
-✓  ✗
-
-<th class="x">✗</th>
+|-------------------------| -------------:|-------------: | -----:      |-----:|----:| 
+|  Security Options       | ✗             | ✓             |✗            |  ✗   |  ✓  |
+|  Sharing Via Dropbox    |       ✓      | ✓              |   ✓  |  ✓     |   ✓ |
+| Backup Via Dropbox      |       ✓        |         ✓      |         ✓    |   ✓   |    ✓ |
+|  Storage Space          |        ✓       |     ✓          |    ✓         |    ✓  |   ✓  |
+| Price per Year          |   Free      |     Free        |     Free        |  Free    |   $69.99  |
+| PHP Enabled             |     ✗         |        ✗       |      ✗       | ✗     | ✓     |
