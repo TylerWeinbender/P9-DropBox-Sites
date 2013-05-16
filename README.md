@@ -68,6 +68,7 @@ Hosting Websites via DropBox.
 
 ###Side Notes
   - When uploading revised files to your site44, your new content will **ONLY be displayed once refreshed.**
+  - Just to re-iterate -- **Site-44 DOES NOT support PHP or dynamic content. Static content only.**
 
 ##Drop Pages
 
